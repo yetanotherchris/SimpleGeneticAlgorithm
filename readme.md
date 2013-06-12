@@ -1,3 +1,3 @@
-# Simple genetic algorithms in C# #
+# Simple genetic algorithm in C# #
 
 Full details in [this blog post](http://www.anotherchris.net/csharp/introduction-to-genetic-algorithms-in-csharp/).
